@@ -18,14 +18,14 @@
 ---
 
 ## ✨ Fun Facts About Me  
-- 🎬 I enjoy watching movies and traveling to new places   
+- 🎬 I enjoy watching movies and traveling to new places and reading books
 - 💡 Tech enthusiast with a constant desire to learn and grow  
 
 ---
 
 ## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sa-rm)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sa-rm)  
 
 ---
 
