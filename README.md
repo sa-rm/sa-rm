@@ -6,7 +6,7 @@
 
 🌍 **Based in**: Nepal  
 💡 **Passion**: Frontend and Backend Development | Mobile and Desktop Applications  
-🚀 **Goal**: Innovating and solving real-world problems through technology  
+🚀 **Goal**: Innovating and solving real-world problems through technology   
 
 ---
 
